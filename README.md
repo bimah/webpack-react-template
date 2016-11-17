@@ -1,4 +1,4 @@
-# webpack-react-templeate
+# webpack-react-template
 A template for any react project using webpack;
 
 ## Development Server & JavaScript
