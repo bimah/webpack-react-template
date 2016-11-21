@@ -9,6 +9,10 @@
     "test:lint": "eslint . --ext .js --ext .jsx --cache",
     "build": "webpack --progress"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bimah/webpack-react-template"
+  },
   "author": "Matteo Corazzin",
   "license": "ISC",
   "devDependencies": {
